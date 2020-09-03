@@ -9,6 +9,17 @@
 	],
 "creatorBuild": "32186",
 "files": {
+	"/build-options.png": {
+		"ft": 32768,
+		"iS": 67775,
+		"oA": 0,
+		"oAP": "/dist/build-options.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/dist": {
 		"ft": 65536,
 		"oA": 1,
